@@ -1,0 +1,62 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Environment & Config
+.env
+.env.local
+.env.*.local
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Application Data
+data/
+faiss_store.pkl
+.streamlit/
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# Node modules (if any)
+node_modules/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+
+
